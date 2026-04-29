@@ -15,6 +15,7 @@ Para gestionar un proyecto, seguimos generalmente estos pasos:
 3. **Hacer commit:** Guardar una "foto" del estado actual del proyecto con un mensaje descriptivo.
 4. **Subir a GitHub:** Enviar los cambios locales al servidor remoto.
 
+### Ejemplo del archivo en markdown
 # 📸👇👇👇
 
 ![ejemplo 1 markdown](./assets/img1.png)
@@ -50,7 +51,7 @@ git commit feat: "Agregar nueva funcionalidad"
 git commit fix: "Corregir error en función X"
 
 ```
-
+### Ejemplo del archivo en markdown
 # 📸👇👇👇
 
 ![ejemplo 2 markdown](./assets/img2.png)
